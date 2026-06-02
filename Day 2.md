@@ -15,7 +15,7 @@ What I Learned
 - Prompt Engineering saves time by reducing the need for follow-up questions.
 - Well-structured prompts produce more accurate, actionable, and relevant outputs.
 - The quality of AI responses depends heavily on the quality of the prompt provided.
-
+  
 Reflection:
  Today's biggest takeaway was that AI performs best when given clear instructions.
  I learned that Prompt Engineering is not about making AI smarter; it is about communicating more effectively with AI.
